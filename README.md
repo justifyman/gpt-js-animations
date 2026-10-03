@@ -8,8 +8,6 @@ Adapted from [klsoen/opus-js-animations](https://github.com/klsoen/opus-js-anima
   <img src="docs/shaml-opening-2.8s.gif" width="250" alt="Shaml: cut-paper pieces spiral around a white-gold sun and gather above two men">
   &nbsp;
   <img src="docs/script-of-me-opening.gif" width="250" alt="The Script of Me: a clock, a pendulum and clock parts arriving in stop-motion">
-</p>
-<p align="center"><sub>Original upstream examples, <i>Shaml</i> and <i>The Script of Me</i>, written with Claude Opus. These are historical examples, not newly generated GPT demonstrations.</sub></p>
 
 ## Supported workflows
 
