@@ -11,8 +11,6 @@ Adapted from [klsoen/opus-js-animations](https://github.com/klsoen/opus-js-anima
 </p>
 <p align="center"><sub>Original upstream examples, <i>Shaml</i> and <i>The Script of Me</i>, written with Claude Opus. These are historical examples, not newly generated GPT demonstrations.</sub></p>
 
-The agent acts as both director and implementation agent: understand the brief and references, settle the sound and visual direction, write a treatment/storyboard with scene timings, build the hardest shot, inspect rendered frames, revise, render, encode, and verify the delivered video. Existing authorization to complete a film is honored; unresolved creative choices are discussed before building.
-
 ## Supported workflows
 
 Use **GPT-6 Astra** or **GPT-6.1 Sol** in Codex with file editing, shell execution and image inspection. Other GPT agents can read `SKILL.md` and follow the same workflow when equivalent capabilities are available. A text-only chat cannot execute this pipeline or visually review its output by itself. The engine does not call a language model or require an OpenAI key; keys are only needed for optional API voiceovers.
