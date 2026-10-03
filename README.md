@@ -4,10 +4,7 @@
 
 Adapted from [klsoen/opus-js-animations](https://github.com/klsoen/opus-js-animations), originally built for Claude Opus. This fork ports the skill and orchestration to GPT/OpenAI while preserving the rendering architecture, visual effects, design references and review workflow. Original authorship and MIT copyright remain intact.
 
-<p align="center">
-  <img src="docs/shaml-opening-2.8s.gif" width="250" alt="Shaml: cut-paper pieces spiral around a white-gold sun and gather above two men">
-  &nbsp;
-  <img src="docs/script-of-me-opening.gif" width="250" alt="The Script of Me: a clock, a pendulum and clock parts arriving in stop-motion">
+**READ SKILL.MD**
 
 ## Supported workflows
 
