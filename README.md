@@ -1,14 +1,13 @@
 
 
-https://github.com/user-attachments/assets/9461c1af-d1cd-4ce0-8fbc-60a3681f9913
-
-
 
 # gpt-js-animations
 
 **Direct and render carefully programmed JavaScript motion graphics with GPT, from a brief to a frame-exact MP4.**
 
 Adapted from [klsoen/opus-js-animations](https://github.com/klsoen/opus-js-animations), originally built for Claude Opus. This fork ports the skill and orchestration to GPT/OpenAI while preserving the rendering architecture, visual effects, design references and review workflow. Original authorship and MIT copyright remain intact.
+
+https://github.com/user-attachments/assets/9461c1af-d1cd-4ce0-8fbc-60a3681f9913
 
 **READ SKILL.MD**
 
