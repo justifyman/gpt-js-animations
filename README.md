@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/9461c1af-d1cd-4ce0-8fbc-60a3681f9913
+
+
+
 # gpt-js-animations
 
 **Direct and render carefully programmed JavaScript motion graphics with GPT, from a brief to a frame-exact MP4.**
